@@ -14,6 +14,8 @@
 
 </div>
 
+This a fork for spatie/laravel-html. Did some modifications but were not accepted by the author and is required to work with my package weblabormx/laravel-front. [See PR here](https://github.com/spatie/laravel-html/pull/254)
+
 This package helps you generate HTML using a clean, simple and easy to read API. All elements can be dynamically generated and put together. The HTML builder helps you generate dynamically assigned form elements based on your selected model, the session or a default value.
 
 ## Support us
